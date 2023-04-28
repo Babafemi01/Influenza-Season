@@ -8,3 +8,4 @@ PROBLEM:
 OBJECTIVE:
 • Perform statistical analysis to look at influenza trends so we can proactively plan for staffing requirements across the country.
 https://public.tableau.com/app/profile/babafemi.olawale.olayinka/viz/PreparationforInfluenzaSeason2_0/Story1
+https://www.youtube.com/watch?v=a5ZYQMC8Dhw&ab_channel=OlayinkaBabafemi
